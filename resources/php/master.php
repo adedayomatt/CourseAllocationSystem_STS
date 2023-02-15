@@ -1,5 +1,10 @@
 <?php
-require('config.php');
+//require('config.php');
+if (function_exists('split')) {
+	function split($delimiter, $string) {
+		return explode($delimiter, $string);
+	}
+}
 require('initiate_courses.php');
 
 class database{
