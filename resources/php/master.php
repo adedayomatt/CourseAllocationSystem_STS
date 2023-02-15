@@ -1,6 +1,6 @@
 <?php
-//require('config.php');
-if (function_exists('split')) {
+require('config.php');
+if (!function_exists('split')) {
 	function split($delimiter, $string) {
 		return explode($delimiter, $string);
 	}
