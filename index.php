@@ -5,11 +5,11 @@
 		<link href="resources/mato/lib/animations/css/animations.css" type="text/css" rel="stylesheet" />
 		<link href="resources/css/styles.css" type="text/css" rel="stylesheet" />
 		
-		<script type="text/javascript" language="javascript" src="../shelter/resources/mato/tools/JQuery/jquery.min.js"></script>
-		<script type="text/javascript" language="javascript" src="../shelter/resources/mato/tools/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" language="javascript" src="resources/mato/tools/JQuery/jquery.min.js"></script>
+		<script type="text/javascript" language="javascript" src="resources/mato/tools/bootstrap/js/bootstrap.min.js"></script>
 		<!--Scripts from JMatt Library-->
-		<script  type="text/javascript" language="javascript" src="../shelter/resources/mato/lib/JMatt/global.js"></script>
-		<script  type="text/javascript" language="javascript" src="../shelter/resources/mato/lib/JMatt/modal.js"></script>
+		<script  type="text/javascript" language="javascript" src="resources/mato/lib/JMatt/global.js"></script>
+		<script  type="text/javascript" language="javascript" src="resources/mato/lib/JMatt/modal.js"></script>
 	
 		<title>Course Allocation System</title>
 	</head>
